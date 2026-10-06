@@ -1,0 +1,11 @@
+# Render blueprint for the FastAPI backend (full-stack mode with shared reflections).
+# Render dashboard > New > Blueprint > pick this repo.
+services:
+  - type: web
+    name: sufi-journey-api
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/nav
+    envVars:
+      - key: PORT
+        value: "8000"
