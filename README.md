@@ -1,15 +1,7 @@
 # Sufi Journey
 
-**Live site:** https://YOUR-USERNAME.github.io/sufi-journey/
+**Live site:**(https://zaryabk410.github.io/sufi-journey/)
 
-| Page | Link |
-|---|---|
-| Tasawwuf | https://YOUR-USERNAME.github.io/sufi-journey/index.html |
-| Ishq | https://YOUR-USERNAME.github.io/sufi-journey/ishq.html |
-| Kainaat | https://YOUR-USERNAME.github.io/sufi-journey/kainaat.html |
-| Peer-e-Kamil | https://YOUR-USERNAME.github.io/sufi-journey/peer-e-kamil.html |
-| Shikwa | https://YOUR-USERNAME.github.io/sufi-journey/shikwa.html |
-| Maikada | https://YOUR-USERNAME.github.io/sufi-journey/maikada.html |
 
 Replace YOUR-USERNAME after deploying (the deploy script prints the real links).
 
